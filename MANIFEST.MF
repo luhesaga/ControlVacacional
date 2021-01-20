@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Luhesaga
+Main-Class: appLauncher
+X-COMMENT: Curso Java
